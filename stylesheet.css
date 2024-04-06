@@ -1,4 +1,20 @@
-#Beagle
-{
+/* Selector por etiqueta */
+section {
+    color: cadetblue;
+}
 
+section h2 {
+    color: brown;
+}
+
+/* Selector por clase */
+
+.azul {
+    color: blue;
+}
+
+/* Selector por id */
+
+#verde {
+    color: chartreuse;
 }
